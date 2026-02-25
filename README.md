@@ -8,19 +8,20 @@
     <img src="https://img.shields.io/badge/-Follow%20Navdeep%20Sharma-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/nvdp06/">
+    <img src="https://img.shields.io/badge/-Follow%20Navdeep%20Sharma-blue?logo=Instagram&style=flat-square" alt="Instagram">
   </a>
 </p>
 
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=de">Deutsch</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=es">Español</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=fr">français</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=ja">日本語</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=ko">한국어</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=pt">Português</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=ru">Русский</a> | 
+  <a href="https://www.readme-i18n.com/nvdp-06/All-in-one-ai?lang=zh">中文</a>
 </p>
 
 <hr/>
@@ -38,50 +39,6 @@
 - 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
 - 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
 
-## 🙏 Thanks to our sponsors
-
-<table align="center" cellpadding="16" cellspacing="12">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tinyfish-io/tinyfish-cookbook" target="_blank" rel="noopener" title="TinyFish">
-        <img src="docs/banner/sponsors/tinyfish.png" alt="TinyFish" width="500">
-      </a>
-      <br>
-      <a href="https://github.com/tinyfish-io/tinyfish-cookbook" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        TinyFish
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" title="Tiger Data">
-        <img src="docs/banner/sponsors/tigerdata.png" alt="Tiger Data" width="500">
-      </a>
-      <br>
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Tiger Data MCP
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" title="Speechmatics">
-        <img src="docs/banner/sponsors/speechmatics.png" alt="Speechmatics" width="500">
-      </a>
-      <br>
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Speechmatics
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Become a Sponsor">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Become a Sponsor" width="500">
-      </a>
-      <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Become a Sponsor
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📂 Featured AI Projects
 
