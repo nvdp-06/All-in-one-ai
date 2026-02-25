@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://trendshift.io/repositories/9876" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/9876" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
+    <img src="SCROLL DOWN" />
   </a>
 </p>
 
