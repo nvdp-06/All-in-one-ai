@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/9876" target="_blank">
+  <a href="https://mcintoshartassociation.com/scrool-down-big/">
     <img src="https://mcintoshartassociation.com/scrool-down-big/" />
   </a>
 </p>
