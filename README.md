@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/nvdp06/">
-    <img src="https://img.shields.io/badge/-Follow%20SCROLL%20DOWN-blue?logo=👇&style=flat-square" alt="Apps">
+    <img src="https://img.shields.io/badge/-Follow%20SCROLL%20DOWN-blue?logo=instagram&style=flat-square" alt="Apps">
   </a>
 </p>
 
